@@ -1,0 +1,2 @@
+date_utc,id,alias,product,cvss_v4,cvss_v3,cvss_source,severity,advisory
+2026-11-26,x_MITS-2026-0001,CVE-2026-123007,nginx / UISP (OpenResty),9.2,8.1,F5,Critical,advisories/2026-11-26-CVE-2026-123007.md
