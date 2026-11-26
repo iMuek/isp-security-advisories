@@ -39,4 +39,4 @@ Write to **info@masteritsupport.com** with the IP, the date(s) and why it should
 reassigned or the host has been cleaned). We review each request; if accepted, the IP is removed from the affected files.
 
 ---
-Master IT Support · HRCOM
+Master IT Support

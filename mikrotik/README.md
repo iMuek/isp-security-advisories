@@ -19,4 +19,4 @@ will be published here after we finish testing it in a lab.
 Removal requests: **info@masteritsupport.com**
 
 ---
-Master IT Support · HRCOM
+Master IT Support
