@@ -10,7 +10,7 @@ Security information for Internet Service Providers (ISPs), in three parts:
 ## Latest
 | Date (UTC) | ID | Product | Severity | Advisory |
 |---|---|---|---|---|
-| 2026-11-26 | CVE-2026-123007 | nginx / UISP (OpenResty) | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123007.md) |
+| 2026-11-26 | CVE-2026-123007 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123007.md) |
 
 [Full index by date and severity](INDEX.md) · [Weekly summaries](weekly/)
 
