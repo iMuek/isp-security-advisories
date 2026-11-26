@@ -10,11 +10,14 @@ on AbuseIPDB, grouped by day.
 |---|---|
 | `ip` | the attacking IP address |
 | `date_utc` | day, UTC (`YYYY-MM-DD`) |
-| `type` | AbuseIPDB category numbers (`;`-separated) and a generic service in parentheses (`ssh`, `telnet`, `smtp`, `http`, `portscan`, `other`; `+` when more than one) |
+| `categories` | AbuseIPDB category numbers, `;`-separated |
+| `service` | generic service: `ssh`, `telnet`, `smtp`, `http`, `portscan` or `other` (`+` when more than one) |
 | `count` | how many accepted reports for that IP that day |
 | `link` | `https://www.abuseipdb.com/check/<ip>` |
 
 Categories: <https://www.abuseipdb.com/categories>
+
+Files dated 2026-11-26 and later use the `categories` and `service` columns. Files dated 2026-11-25 and earlier use the earlier format, with a single `type` column (category numbers and the service in parentheses). Each file is written once; the only later change is removing an IP after an accepted removal request.
 
 ## Where it comes from
 
