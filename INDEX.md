@@ -5,6 +5,7 @@ File naming: `advisories/YYYY-MM-DD-<ID>.md` (advisory date, UTC).
 ## By date (newest first)
 | Date (UTC) | ID | Product | Severity (CVSS, source) | Advisory |
 |---|---|---|---|---|
+| 2026-11-26 | CVE-2026-132779 | nginx | 4.0: 6.9 · 3.1: 5.3 (F5) | [view](advisories/2026-11-26-CVE-2026-132779.md) |
 | 2026-11-26 | CVE-2026-123633 | nginx | 4.0: 9.2 · 3.1: 8.1 (F5) | [view](advisories/2026-11-26-CVE-2026-123633.md) |
 | 2026-11-26 | CVE-2026-123634 | nginx | 4.0: 9.2 · 3.1: 8.1 (F5) | [view](advisories/2026-11-26-CVE-2026-123634.md) |
 | 2026-11-26 | CVE-2026-121810 | nginx | 4.0: 9.2 · 3.1: 8.1 (F5) | [view](advisories/2026-11-26-CVE-2026-121810.md) |
@@ -22,7 +23,7 @@ Rating is based on the most recent CVSS version published by the source (current
 ### High (7.0–8.9)
 - (none)
 ### Medium (4.0–6.9)
-- (none)
+- [CVE-2026-132779](advisories/2026-11-26-CVE-2026-132779.md): nginx, TLS 1.3 early data CPU exhaustion (4.0: 6.9)
 ### Low (0.1–3.9)
 - (none)
 
