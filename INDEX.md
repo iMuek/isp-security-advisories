@@ -12,7 +12,7 @@ File naming: `advisories/YYYY-MM-DD-<CVE>.md` (advisory date, UTC). An advisory 
 | 2026-11-27 | MITS-2026-0013 | CVE-2026-120967 | nginx | 4.0: 6.3 · 3.1: 4.8 (F5) | [view](advisories/2026-11-27-CVE-2026-120967.md) |
 | 2026-11-27 | MITS-2026-0014 | CVE-2026-123640 | nginx | 4.0: 6.9 · 3.1: 5.3 (F5) | [view](advisories/2026-11-27-CVE-2026-123640.md) |
 | 2026-11-27 | MITS-2026-0015 | CVE-2026-120993 | nginx | 4.0: 6.9 · 3.1: 5.3 (F5) | [view](advisories/2026-11-27-CVE-2026-120993.md) |
-| 2026-11-27 | MITS-2026-0010 | Several (see advisory) | UISP (bundled OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
+| 2026-11-27 | MITS-2026-0010 | Several (see advisory) | UISP (bundled nginx/OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
 | 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | 4.0: 9.2 · 3.1: 9.8 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
 | 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | 4.0: 9.2 · 3.1: 8.1 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
 | 2026-11-27 | MITS-2026-0009 | CVE-2026-115560 | PHP | 4.0: 9.2 (PHP Group) | [view](advisories/2026-11-27-CVE-2026-115560.md) |
@@ -45,6 +45,6 @@ Rating is based on the most recent CVSS version published by the source (current
 ### Low (0.1–3.9)
 - (none)
 ### Not rated (product advisories not confirmed by the vendor)
-- MITS-2026-0010 [UISP bundled OpenResty](advisories/2026-11-27-UISP-bundled-OpenResty.md): UISP, related to the November 2026 nginx CVEs; not confirmed by Ubiquiti
+- MITS-2026-0010 [UISP bundled nginx/OpenResty](advisories/2026-11-27-UISP-bundled-OpenResty.md): UISP, related to the November 2026 nginx CVEs; not confirmed by Ubiquiti
 
 Rating bands follow FIRST's CVSS qualitative severity scale. Scores are those of the source; we only map them to a band.
