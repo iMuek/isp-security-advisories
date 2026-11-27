@@ -10,6 +10,7 @@ Security information for Internet Service Providers (ISPs), in three parts:
 ## Latest
 | Date (UTC) | ID | CVE | Product | Severity | Advisory |
 |---|---|---|---|---|---|
+| 2026-11-27 | MITS-2026-0010 | Several (see advisory) | UISP (bundled OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
 | 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
 | 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
 | 2026-11-27 | MITS-2026-0009 | CVE-2026-115560 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-115560.md) |

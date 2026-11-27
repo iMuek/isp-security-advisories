@@ -8,3 +8,4 @@ date_utc,id,cve,product,cvss_v4,cvss_v3,cvss_source,severity,advisory
 2026-11-27,MITS-2026-0007,CVE-2026-109618,PHP,9.2,9.8,PHP Group,Critical,advisories/2026-11-27-CVE-2026-109618.md
 2026-11-27,MITS-2026-0008,CVE-2026-109619,PHP,9.2,8.1,PHP Group,Critical,advisories/2026-11-27-CVE-2026-109619.md
 2026-11-27,MITS-2026-0009,CVE-2026-115560,PHP,9.2,,PHP Group,Critical,advisories/2026-11-27-CVE-2026-115560.md
+2026-11-27,MITS-2026-0010,,UISP,,,,Not rated,advisories/2026-11-27-UISP-bundled-OpenResty.md

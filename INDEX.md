@@ -2,11 +2,12 @@
 
 ID: our own stable identifier (`MITS-YYYY-NNNN`, never reused). CVE: the official CVE identifier.
 
-File naming: `advisories/YYYY-MM-DD-<CVE>.md` (advisory date, UTC).
+File naming: `advisories/YYYY-MM-DD-<CVE>.md` (advisory date, UTC). An advisory about a product affected by several CVEs uses `advisories/YYYY-MM-DD-<Product>-<topic>.md`.
 
 ## By date (newest first)
 | Date (UTC) | ID | CVE | Product | Severity (CVSS, source) | Advisory |
 |---|---|---|---|---|---|
+| 2026-11-27 | MITS-2026-0010 | Several (see advisory) | UISP (bundled OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
 | 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | 4.0: 9.2 · 3.1: 9.8 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
 | 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | 4.0: 9.2 · 3.1: 8.1 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
 | 2026-11-27 | MITS-2026-0009 | CVE-2026-115560 | PHP | 4.0: 9.2 (PHP Group) | [view](advisories/2026-11-27-CVE-2026-115560.md) |
@@ -34,5 +35,7 @@ Rating is based on the most recent CVSS version published by the source (current
 - MITS-2026-0006 [CVE-2026-132779](advisories/2026-11-26-CVE-2026-132779.md): nginx, TLS 1.3 early data CPU exhaustion (4.0: 6.9)
 ### Low (0.1–3.9)
 - (none)
+### Not rated (product advisories not confirmed by the vendor)
+- MITS-2026-0010 [UISP bundled OpenResty](advisories/2026-11-27-UISP-bundled-OpenResty.md): UISP, related to the November 2026 nginx CVEs; not confirmed by Ubiquiti
 
 Rating bands follow FIRST's CVSS qualitative severity scale. Scores are those of the source; we only map them to a band.
