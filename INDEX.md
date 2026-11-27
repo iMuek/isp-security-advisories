@@ -24,6 +24,7 @@ File naming: `advisories/YYYY-MM-DD-<CVE>.md` (advisory date, UTC). An advisory 
 | 2026-10-21 | MITS-2026-0007 | CVE-2026-109618 | PHP | 4.0: 9.2 · 3.1: 9.8 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
 | 2026-10-21 | MITS-2026-0008 | CVE-2026-109619 | PHP | 4.0: 9.2 · 3.1: 8.1 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
 | — | MITS-2026-0010 | Several (see advisory) | UISP (bundled nginx/OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
+| — | MITS-2026-0016 | Several (see advisory) | MikroWisp (end-of-life PHP and Node.js) | Not rated: not confirmed by Mikrosystem | [view](advisories/2026-11-27-MikroWisp-end-of-life-PHP.md) |
 
 ## By severity
 Rating is based on the most recent CVSS version published by the source (currently 4.0). If only 3.1 is available, 3.1 is used.
@@ -48,5 +49,6 @@ Rating is based on the most recent CVSS version published by the source (current
 - (none)
 ### Not rated (product advisories not confirmed by the vendor)
 - MITS-2026-0010 [UISP bundled nginx/OpenResty](advisories/2026-11-27-UISP-bundled-OpenResty.md): UISP, related to the November 2026 nginx CVEs; not confirmed by Ubiquiti
+- MITS-2026-0016 [MikroWisp end-of-life PHP and Node.js](advisories/2026-11-27-MikroWisp-end-of-life-PHP.md): MikroWisp, PHP 7.2 and Node.js 21 per its public installer; not confirmed by Mikrosystem
 
 Rating bands follow FIRST's CVSS qualitative severity scale. Scores are those of the source; we only map them to a band.

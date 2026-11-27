@@ -25,6 +25,7 @@ Security information for Internet Service Providers (ISPs), in three parts:
 | 2026-10-21 | MITS-2026-0007 | CVE-2026-109618 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
 | 2026-10-21 | MITS-2026-0008 | CVE-2026-109619 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
 | — | MITS-2026-0010 | Several (see advisory) | UISP (bundled nginx/OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
+| — | MITS-2026-0016 | Several (see advisory) | MikroWisp (end-of-life PHP and Node.js) | Not rated: not confirmed by Mikrosystem | [view](advisories/2026-11-27-MikroWisp-end-of-life-PHP.md) |
 
 Dates shown are the official CVE publication dates (CVE record). index.csv also keeps our advisory date (date_utc).
 

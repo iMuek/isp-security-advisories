@@ -14,3 +14,4 @@ date_utc,id,cve,product,cvss_v4,cvss_v3,cvss_source,severity,advisory,cve_publis
 2026-11-27,MITS-2026-0013,CVE-2026-120967,nginx,6.3,4.8,F5,Medium,advisories/2026-11-27-CVE-2026-120967.md,2026-11-18
 2026-11-27,MITS-2026-0014,CVE-2026-123640,nginx,6.9,5.3,F5,Medium,advisories/2026-11-27-CVE-2026-123640.md,2026-11-18
 2026-11-27,MITS-2026-0015,CVE-2026-120993,nginx,6.9,5.3,F5,Medium,advisories/2026-11-27-CVE-2026-120993.md,2026-11-18
+2026-11-27,MITS-2026-0016,,MikroWisp,,,,Not rated,advisories/2026-11-27-MikroWisp-end-of-life-PHP.md,
