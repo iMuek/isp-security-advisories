@@ -8,23 +8,25 @@ Security information for Internet Service Providers (ISPs), in three parts:
 **Maintained by:** Master IT Support · **Updated:** whenever a new advisory is published, with a weekly summary.
 
 ## Latest
-| Date (UTC) | ID | CVE | Product | Severity | Advisory |
+| CVE published | ID | CVE | Product | Severity | Advisory |
 |---|---|---|---|---|---|
-| 2026-11-27 | MITS-2026-0011 | CVE-2026-118899 | nginx | High (CVSS 4.0: 8.7) | [view](advisories/2026-11-27-CVE-2026-118899.md) |
-| 2026-11-27 | MITS-2026-0012 | CVE-2026-125283 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-125283.md) |
-| 2026-11-27 | MITS-2026-0013 | CVE-2026-120967 | nginx | Medium (CVSS 4.0: 6.3) | [view](advisories/2026-11-27-CVE-2026-120967.md) |
-| 2026-11-27 | MITS-2026-0014 | CVE-2026-123640 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-123640.md) |
-| 2026-11-27 | MITS-2026-0015 | CVE-2026-120993 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-120993.md) |
-| 2026-11-27 | MITS-2026-0010 | Several (see advisory) | UISP (bundled nginx/OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
-| 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
-| 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
-| 2026-11-27 | MITS-2026-0009 | CVE-2026-115560 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-115560.md) |
-| 2026-11-26 | MITS-2026-0006 | CVE-2026-132779 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-26-CVE-2026-132779.md) |
-| 2026-11-26 | MITS-2026-0002 | CVE-2026-123633 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123633.md) |
-| 2026-11-26 | MITS-2026-0003 | CVE-2026-123634 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123634.md) |
-| 2026-11-26 | MITS-2026-0004 | CVE-2026-121810 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-121810.md) |
-| 2026-11-26 | MITS-2026-0005 | CVE-2026-113425 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-113425.md) |
-| 2026-11-26 | MITS-2026-0001 | CVE-2026-123007 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123007.md) |
+| 2026-11-23 | MITS-2026-0006 | CVE-2026-132779 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-26-CVE-2026-132779.md) |
+| 2026-11-19 | MITS-2026-0009 | CVE-2026-115560 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-115560.md) |
+| 2026-11-18 | MITS-2026-0001 | CVE-2026-123007 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123007.md) |
+| 2026-11-18 | MITS-2026-0002 | CVE-2026-123633 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123633.md) |
+| 2026-11-18 | MITS-2026-0003 | CVE-2026-123634 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123634.md) |
+| 2026-11-18 | MITS-2026-0004 | CVE-2026-121810 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-121810.md) |
+| 2026-11-18 | MITS-2026-0005 | CVE-2026-113425 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-113425.md) |
+| 2026-11-18 | MITS-2026-0011 | CVE-2026-118899 | nginx | High (CVSS 4.0: 8.7) | [view](advisories/2026-11-27-CVE-2026-118899.md) |
+| 2026-11-18 | MITS-2026-0012 | CVE-2026-125283 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-125283.md) |
+| 2026-11-18 | MITS-2026-0013 | CVE-2026-120967 | nginx | Medium (CVSS 4.0: 6.3) | [view](advisories/2026-11-27-CVE-2026-120967.md) |
+| 2026-11-18 | MITS-2026-0014 | CVE-2026-123640 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-123640.md) |
+| 2026-11-18 | MITS-2026-0015 | CVE-2026-120993 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-120993.md) |
+| 2026-10-21 | MITS-2026-0007 | CVE-2026-109618 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
+| 2026-10-21 | MITS-2026-0008 | CVE-2026-109619 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
+| — | MITS-2026-0010 | Several (see advisory) | UISP (bundled nginx/OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
+
+Dates shown are the official CVE publication dates (CVE record). index.csv also keeps our advisory date (date_utc).
 
 [Full index by date and severity](INDEX.md) · [Weekly summaries](weekly/)
 
@@ -37,7 +39,7 @@ Security information for Internet Service Providers (ISPs), in three parts:
 | File | Purpose | Raw link |
 |---|---|---|
 | `advisories/*.md` | Human-readable, one advisory per vulnerability | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/advisories/<file>.md` |
-| `index.csv` | Flat list: date, ID, CVE, product, CVSS, link | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/index.csv` |
+| `index.csv` | Flat list: our advisory date (date_utc), ID, CVE, product, CVSS, link, CVE published date (cve_published) | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/index.csv` |
 | `abuse/YYYY-MM-DD.csv` | Daily abuse list (see [abuse/README.md](abuse/README.md)) | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/abuse/<YYYY-MM-DD>.csv` |
 | `mikrotik/ipv4-list.txt` | Plain-text IPv4 block list + `.sha256` (see [mikrotik/README.md](mikrotik/README.md)) | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/mikrotik/ipv4-list.txt` |
 
