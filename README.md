@@ -10,6 +10,11 @@ Security information for Internet Service Providers (ISPs), in three parts:
 ## Latest
 | Date (UTC) | ID | CVE | Product | Severity | Advisory |
 |---|---|---|---|---|---|
+| 2026-11-27 | MITS-2026-0011 | CVE-2026-118899 | nginx | High (CVSS 4.0: 8.7) | [view](advisories/2026-11-27-CVE-2026-118899.md) |
+| 2026-11-27 | MITS-2026-0012 | CVE-2026-125283 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-125283.md) |
+| 2026-11-27 | MITS-2026-0013 | CVE-2026-120967 | nginx | Medium (CVSS 4.0: 6.3) | [view](advisories/2026-11-27-CVE-2026-120967.md) |
+| 2026-11-27 | MITS-2026-0014 | CVE-2026-123640 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-123640.md) |
+| 2026-11-27 | MITS-2026-0015 | CVE-2026-120993 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-27-CVE-2026-120993.md) |
 | 2026-11-27 | MITS-2026-0010 | Several (see advisory) | UISP (bundled OpenResty) | Not rated: not confirmed by Ubiquiti | [view](advisories/2026-11-27-UISP-bundled-OpenResty.md) |
 | 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
 | 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
