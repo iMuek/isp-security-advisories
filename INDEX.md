@@ -7,6 +7,9 @@ File naming: `advisories/YYYY-MM-DD-<CVE>.md` (advisory date, UTC).
 ## By date (newest first)
 | Date (UTC) | ID | CVE | Product | Severity (CVSS, source) | Advisory |
 |---|---|---|---|---|---|
+| 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | 4.0: 9.2 · 3.1: 9.8 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
+| 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | 4.0: 9.2 · 3.1: 8.1 (PHP Group / NVD) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
+| 2026-11-27 | MITS-2026-0009 | CVE-2026-115560 | PHP | 4.0: 9.2 (PHP Group) | [view](advisories/2026-11-27-CVE-2026-115560.md) |
 | 2026-11-26 | MITS-2026-0006 | CVE-2026-132779 | nginx | 4.0: 6.9 · 3.1: 5.3 (F5) | [view](advisories/2026-11-26-CVE-2026-132779.md) |
 | 2026-11-26 | MITS-2026-0002 | CVE-2026-123633 | nginx | 4.0: 9.2 · 3.1: 8.1 (F5) | [view](advisories/2026-11-26-CVE-2026-123633.md) |
 | 2026-11-26 | MITS-2026-0003 | CVE-2026-123634 | nginx | 4.0: 9.2 · 3.1: 8.1 (F5) | [view](advisories/2026-11-26-CVE-2026-123634.md) |
@@ -17,6 +20,9 @@ File naming: `advisories/YYYY-MM-DD-<CVE>.md` (advisory date, UTC).
 ## By severity
 Rating is based on the most recent CVSS version published by the source (currently 4.0). If only 3.1 is available, 3.1 is used.
 ### Critical (9.0–10.0)
+- MITS-2026-0007 [CVE-2026-109618](advisories/2026-11-27-CVE-2026-109618.md): PHP (4.0: 9.2)
+- MITS-2026-0008 [CVE-2026-109619](advisories/2026-11-27-CVE-2026-109619.md): PHP (4.0: 9.2)
+- MITS-2026-0009 [CVE-2026-115560](advisories/2026-11-27-CVE-2026-115560.md): PHP (4.0: 9.2)
 - MITS-2026-0002 [CVE-2026-123633](advisories/2026-11-26-CVE-2026-123633.md): nginx, HTTP/2 use-after-free (4.0: 9.2)
 - MITS-2026-0003 [CVE-2026-123634](advisories/2026-11-26-CVE-2026-123634.md): nginx, proxy/resolver use-after-free (4.0: 9.2)
 - MITS-2026-0004 [CVE-2026-121810](advisories/2026-11-26-CVE-2026-121810.md): nginx, HTTP/3 use-after-free (4.0: 9.2)

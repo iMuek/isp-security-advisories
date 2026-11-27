@@ -10,6 +10,9 @@ Security information for Internet Service Providers (ISPs), in three parts:
 ## Latest
 | Date (UTC) | ID | CVE | Product | Severity | Advisory |
 |---|---|---|---|---|---|
+| 2026-11-27 | MITS-2026-0007 | CVE-2026-109618 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109618.md) |
+| 2026-11-27 | MITS-2026-0008 | CVE-2026-109619 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-109619.md) |
+| 2026-11-27 | MITS-2026-0009 | CVE-2026-115560 | PHP | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-27-CVE-2026-115560.md) |
 | 2026-11-26 | MITS-2026-0006 | CVE-2026-132779 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-26-CVE-2026-132779.md) |
 | 2026-11-26 | MITS-2026-0002 | CVE-2026-123633 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123633.md) |
 | 2026-11-26 | MITS-2026-0003 | CVE-2026-123634 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123634.md) |
@@ -28,7 +31,7 @@ Security information for Internet Service Providers (ISPs), in three parts:
 | File | Purpose | Raw link |
 |---|---|---|
 | `advisories/*.md` | Human-readable, one advisory per vulnerability | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/advisories/<file>.md` |
-| `index.csv` | Flat list: date, ID, product, CVSS, link | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/index.csv` |
+| `index.csv` | Flat list: date, ID, CVE, product, CVSS, link | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/index.csv` |
 | `abuse/YYYY-MM-DD.csv` | Daily abuse list (see [abuse/README.md](abuse/README.md)) | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/abuse/<YYYY-MM-DD>.csv` |
 | `mikrotik/ipv4-list.txt` | Plain-text IPv4 block list + `.sha256` (see [mikrotik/README.md](mikrotik/README.md)) | `https://raw.githubusercontent.com/iMuek/isp-security-advisories/main/mikrotik/ipv4-list.txt` |
 
