@@ -10,6 +10,11 @@ Security information for Internet Service Providers (ISPs), in three parts:
 ## Latest
 | Date (UTC) | ID | CVE | Product | Severity | Advisory |
 |---|---|---|---|---|---|
+| 2026-11-26 | MITS-2026-0006 | CVE-2026-132779 | nginx | Medium (CVSS 4.0: 6.9) | [view](advisories/2026-11-26-CVE-2026-132779.md) |
+| 2026-11-26 | MITS-2026-0002 | CVE-2026-123633 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123633.md) |
+| 2026-11-26 | MITS-2026-0003 | CVE-2026-123634 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123634.md) |
+| 2026-11-26 | MITS-2026-0004 | CVE-2026-121810 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-121810.md) |
+| 2026-11-26 | MITS-2026-0005 | CVE-2026-113425 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-113425.md) |
 | 2026-11-26 | MITS-2026-0001 | CVE-2026-123007 | nginx | Critical (CVSS 4.0: 9.2) | [view](advisories/2026-11-26-CVE-2026-123007.md) |
 
 [Full index by date and severity](INDEX.md) · [Weekly summaries](weekly/)
